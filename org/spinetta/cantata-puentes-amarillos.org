@@ -1,0 +1,77 @@
+#+title: Cantata Puentes Amarillos
+
+Este es el sexto tema del disco /Artaud/ del flaco Spinetta.
+
+
+* Letra
+
+#+begin_src
+
+Todo camino puede andar
+Todo puede andar...
+Con esta sangre alrededor
+no sé que puedo yo mirar
+la sangre ríe idiota
+como esta canción
+¿ante qué?
+
+Ensucien sus manos como siempre
+Relojes se pudren en sus mentes ya
+
+y en el mar naufragó
+una balsa que nunca zarpó
+mar aquí, mar allá
+
+En un momento vas a ver
+que ya es la hora de volver
+pero trayendo a casa todo aquél
+fulgor
+¿y para quién?
+
+Las almas repudian todo encierro
+las cruces dejaron de llover
+
+sube al taxi, nena
+los hombres te miran
+te quieren tomar
+ojo el ramo, nena
+las flores se caen, tienes que parar
+Ví las sonrisas muriendo en el
+carrousell
+Vi tantos monos, nidos, platos de
+café
+platos de café, ah
+
+Guarda el hilo, nena
+guarden bien tus manos
+esta libertad
+ya no poses, nena
+todo eso es en vano
+como no dormir
+
+Aunque me fuercen yo nunca voy a decir
+que todo tiempo por pasado fue mejor
+mañana es mejor
+Aquellas sombras del camino azul
+¿dónde están?
+yo las comparo con cipreses que ví
+sólo en sueños
+y las muñecas tan sangrantes
+están de llorar
+y te amo tanto que no puedo
+despertarme sin amar
+y te amo tanto que no puedo
+despertarme sin amar
+
+¡No! nunca la abandones
+¡No! puentes amarillos
+Mira el pájaro, se muere en su jaula
+¡No! nunca la abandones
+Puentes amarillos, se muere en su jaula
+Mira el pájaro, puentes amarillos
+Hoy te amo ya
+y ya es mañana
+Mañana
+Mañana
+Mañana
+#+end_src

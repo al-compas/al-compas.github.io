@@ -1,0 +1,10 @@
+#+TITLE: Al compás
+#+HTML_HEAD: <link rel=stylesheet type=text/css href=css/stylesheet.css />
+
+[[https://github.com/al-compas/al-compas.github.io.git][repositorio con la pagina]]
+
+Aquí me pongo a cantar, al compás de mi vigüela...
+
++ [[file:silvio/juego-que-me-regalo-un-6-de-enero.org][juego]]
++ [[file:silvio/contents.org][silvio]]
++ [[file:spinetta/contents.org][spinetta]]

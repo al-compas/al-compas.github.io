@@ -1,0 +1,9 @@
+#!/bin/bash
+
+PNGS_DIRS=($(find . -type d -name ltxpng)) 
+
+for olddir in ${PNGS_DIRS[@]}; do
+    newdir=${olddir/org\//}
+    echo Copiando ${olddir} a ${newdir}
+    cp -r ${olddir} ${newdir}
+done
